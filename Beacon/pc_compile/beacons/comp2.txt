@@ -1,0 +1,4450 @@
+0xe6, 0x05, 0xca, 0x7f, 0x7c, 0x51, 0xf6, 0xc8, 0x87, 0xfc, 0xb4, 0x5f, 0xce, 0x82, 0x2c, 0x27, 0xf6, 0x8c, 0x03, 0xfe, 0x5a, 0x8a, 0x4f, 0xed, 0x5b, 0x71, 0xff, 0x2d, 0x3f, 0x4a, 0x0b, 0xb1, 0x13, 0x6a, 0xb0, 0xe7, 0x2b, 0xbb, 0xf2, 0xa4, 0x3a, 0xd2, 0xf6, 0x8d, 0xe8, 0x01, 0xa7, 0x59, 0x6e, 0xd0, 0x9f, 0xce, 0x98, 0x75, 0x69, 0x8f, 0x48, 0xa9, 0x81, 0xdb, 0xe8, 0xcc, 0xd3, 0x69, 0x36, 0xb2, 0x37, 0x56, 0x4a, 0xb2, 0xc2, 0xa4, 0x44, 0x4c, 0x2a, 0x26, 0x14, 0x0c, 0x8d, 0xaa, 0x26, 0x14, 0x01, 0x0b, 0x0a, 0x85, 0xa8, 0x02, 0x16, 0xa8, 0x1a, 0x98, 0x8b, 0x76, 0x7c, 0xc1, 0xf8, 0xd6, 0x16, 0x76, 0x4c, 0xfe, 0xcc, 0x69, 0x92, 0x64, 0xec, 0xa7, 0xac, 0x34, 0x1a, 0x13, 0xa5, 0xa8, 0x35, 0x32, 0xd9, 0x8a, 0x06, 0x4c, 0xb6, 0x43, 0xd2, 0xa5, 0x16, 0x43, 0xd2, 0x81, 0xd8, 0x90, 0x58, 0x8f, 0x4a, 0x77, 0xd8, 0x47, 0xa5, 0x31, 0xd8, 0xec, 0x34, 0x48, 0xf1, 0xa5, 0x40, 0x3d, 0x33, 0xfc, 0xea, 0xd3, 0x2d, 0x43, 0x33, 0x21, 0x61, 0x50, 0x30, 0xa9, 0x02, 0x22, 0x2a, 0x36, 0x14, 0xc0, 0x85, 0x85, 0x40, 0xe2, 0x80, 0x20, 0x7a, 0x81, 0xe9, 0x81, 0x67, 0x4f, 0xff, 0x56, 0xff, 0x5a, 0xc5, 0xba, 0x5c, 0x5e, 0x4c, 0x3f, 0xda, 0xa6, 0x49, 0x9a, 0x12, 0xa7, 0x44, 0xa0, 0xd4, 0xbb, 0x02, 0x55, 0xb8, 0xe3, 0x14, 0x0c, 0xb0, 0xb1, 0x0a, 0x95, 0x63, 0x14, 0x0c, 0x93, 0x60, 0xa5, 0xd8, 0x28, 0x03, 0x7f, 0x48, 0xff, 0x90, 0x7a, 0xfd, 0x4d, 0x58, 0x6a, 0x86, 0x64, 0x40, 0xc2, 0xa1, 0x61, 0x48, 0x08, 0x58, 0x54, 0x6c, 0x28, 0x02, 0x26, 0x15, 0x59, 0xc5, 0x00, 0x57, 0x61, 0x50, 0x38, 0xa0, 0x09, 0x74, 0xfe, 0xb2, 0x0a, 0xcc, 0xd4, 0x86, 0x2f, 0xe4, 0xf7, 0x02, 0xac, 0x92, 0x80, 0x15, 0x22, 0xd3, 0x36, 0x2d, 0xc3, 0x57, 0x23, 0x34, 0x8a, 0x2c, 0x29, 0xa9, 0x41, 0xa0, 0x63, 0xb3, 0x4b, 0x9a, 0x04, 0x6e, 0x68, 0xa7, 0x36, 0x5f, 0xf0, 0x2a, 0xb8, 0xd5, 0x06, 0x4f, 0x72, 0x16, 0x15, 0x0b, 0x0a, 0x42, 0x21, 0x61, 0x51, 0x30, 0xa0, 0x06, 0x30, 0xaa, 0xd2, 0x8a, 0x60, 0x56, 0x61, 0x55, 0xdc, 0x50, 0x03, 0xac, 0xb8, 0x9c, 0xfb, 0xad, 0x50, 0xd6, 0x46, 0x2f, 0x14, 0xfa, 0xa5, 0x5a, 0x11, 0x9f, 0x52, 0x2d, 0x33, 0x62, 0x78, 0xea, 0xc2, 0x1a, 0x45, 0x96, 0x15, 0xaa, 0x50, 0xd4, 0x86, 0x3f, 0x75, 0x1b, 0xa8, 0x03, 0x7b, 0xc3, 0xc7, 0x36, 0x72, 0x7f, 0xd7, 0x4f, 0xe9, 0x5a, 0x2d, 0x50, 0x61, 0x2d, 0xc8, 0x9a, 0xa1, 0x34, 0x12, 0x44, 0xd5, 0x13, 0x50, 0x04, 0x4d, 0x50, 0x4b, 0x4c, 0x0a, 0xaf, 0x55, 0xde, 0x80, 0x12, 0xdb, 0x8b, 0x85, 0xaa, 0xba, 0xea, 0xfe, 0xf2, 0x16, 0xfa, 0x8a, 0xa4, 0x23, 0x3b, 0x14, 0xf0, 0x2a, 0x8d, 0xc9, 0x56, 0xa6, 0x5a, 0x0a, 0x26, 0x5a, 0x90, 0x52, 0x2c, 0x7d, 0x2d, 0x00, 0x6f, 0x78, 0x68, 0xfe, 0xe2, 0x61, 0xfe, 0xd0, 0xad, 0x66, 0xa8, 0x39, 0xe7, 0xb9, 0x13, 0x54, 0x4d, 0x48, 0x92, 0x26, 0xa8, 0x9a, 0x81, 0x10, 0xb5, 0x43, 0x20, 0xa6, 0x05, 0x67, 0x15, 0x5d, 0xc5, 0x30, 0x23, 0x8f, 0x89, 0x93, 0xeb, 0x51, 0xeb, 0xab, 0xfb, 0x84, 0x6f, 0x46, 0xaa, 0x40, 0xcc, 0x8a, 0x78, 0xaa, 0x36, 0x24, 0x15, 0x28, 0xa4, 0x59, 0x22, 0x9a, 0x90, 0x1a, 0x45, 0x0f, 0xcd, 0x2e, 0x69, 0x0c, 0xdd, 0xf0, 0xc9, 0xc7, 0xda, 0x94, 0xf0, 0x7e, 0x5f, 0xeb, 0x5b, 0x44, 0xd4, 0x9c, 0xd3, 0xdc, 0x8c, 0xd4, 0x46, 0x91, 0x24, 0x66, 0xa2, 0x6a, 0x00, 0x85, 0xaa, 0x17, 0xa6, 0x22, 0xb3, 0xd4, 0x0f, 0x4c, 0x0a, 0xfd, 0x18, 0x7d, 0x69, 0xda, 0xd0, 0xcd, 0x99, 0xf6, 0x35, 0x40, 0x62, 0xc6, 0x8c, 0xfc, 0x22, 0x96, 0xfa, 0x55, 0xa8, 0xf4, 0xfb, 0xc7, 0xfb, 0x96, 0x97, 0x0d, 0xf4, 0x8c, 0xd5, 0x1a, 0x5d, 0x16, 0xa3, 0xd1, 0x35, 0x36, 0x19, 0x16, 0x33, 0xff, 0xdf, 0x15, 0x6a, 0x3f, 0x0d, 0xea, 0xcd, 0xff, 0x2e, 0x6e, 0x3e, 0xa4, 0x52, 0xb0, 0xf9, 0xd1, 0x6e, 0x3f, 0x08, 0xeb, 0x0f, 0xff, 0x2e, 0xe3, 0xfe, 0xfb, 0x15, 0x6e, 0x3f, 0x04, 0xea, 0xa7, 0xef, 0x08, 0x97, 0xea, 0xf4, 0x58, 0x7e, 0xd6, 0x25, 0x98, 0xfc, 0x05, 0xa9, 0x1e, 0xb3, 0x5b, 0x8f, 0xc5, 0xaa, 0xcc, 0x7e, 0x00, 0x9c, 0x11, 0xbe, 0xee, 0x3f, 0xa6, 0xc3, 0xcd, 0x16, 0x27, 0xdb, 0x22, 0x71, 0xa7, 0xcd, 0x12, 0x3e, 0xa3, 0x75, 0xc4, 0xf7, 0x4f, 0x87, 0x1f, 0x4a, 0x69, 0x35, 0x9b, 0xdc, 0x81, 0x84, 0xd4, 0x66, 0x90, 0x11, 0xb5, 0x42, 0xd4, 0x01, 0x13, 0x54, 0x2f, 0x4c, 0x45, 0x67, 0xa8, 0x1e, 0x98, 0x15, 0xa4, 0xa9, 0xb5, 0x1f, 0x9e, 0xc1, 0xff, 0xdd, 0xcd, 0x50, 0x1d, 0xb7, 0x85, 0xed, 0x21, 0xb7, 0xd0, 0xed, 0x71, 0x16, 0xc6, 0x74, 0x0c, 0xfe, 0xe6, 0xb6, 0x36, 0x46, 0x3f, 0xe5, 0x9a, 0x9f, 0xc2, 0xb5, 0x30, 0xea, 0x5c, 0x58, 0xe1, 0x4c, 0x7d, 0xdf, 0xc0, 0x55, 0x6d, 0x58, 0x88, 0xed, 0x9a, 0x48, 0x9e, 0x40, 0x72, 0xbf, 0xc5, 0xc5, 0x4b, 0x2a, 0x26, 0xaa, 0xf9, 0x7d, 0x07, 0x15, 0x1e, 0x3f, 0x7e, 0xcd, 0xbb, 0x80, 0x30, 0x05, 0x00, 0x3c, 0x4a, 0xbe, 0xbc, 0x55, 0x4d, 0x4a, 0x28, 0xa6, 0x31, 0x4d, 0x96, 0x12, 0x27, 0xdd, 0x2a, 0xd8, 0xa4, 0x33, 0x13, 0x50, 0x9d, 0x6e, 0x6c, 0xa3, 0x91, 0x26, 0x91, 0xd7, 0x77, 0x46, 0x35, 0x97, 0x9a, 0xc9, 0x9a, 0x21, 0x84, 0xd3, 0x09, 0xa4, 0x32, 0x36, 0x35, 0x13, 0x1a, 0x00, 0x89, 0xaa, 0x17, 0xaa, 0x02, 0xbb, 0xd4, 0x0f, 0x40, 0x8a, 0xd2, 0x55, 0x83, 0xf3, 0x59, 0xff, 0xc0, 0x6a, 0x80, 0xef, 0xb4, 0xa9, 0xd2, 0x7b, 0x08, 0xa5, 0x8c, 0xe5, 0x1c, 0x64, 0x1a, 0xb9, 0x9a, 0xd4, 0xc0, 0x92, 0x39, 0x33, 0xc9, 0xa8, 0xf5, 0x26, 0xdd, 0x69, 0x8f, 0xf6, 0x87, 0xf3, 0xa4, 0xca, 0x5b, 0x9a, 0x21, 0xe9, 0xd9, 0xe7, 0x34, 0x80, 0x23, 0x6e, 0x2a, 0x3b, 0x96, 0xdd, 0xf2, 0xd2, 0x19, 0x87, 0x7f, 0x67, 0xf6, 0x7b, 0x49, 0x1c, 0xb6, 0xf7, 0x32, 0x67, 0x3e, 0xd5, 0x91, 0x9a, 0xcd, 0x9a, 0x21, 0xa4, 0xd4, 0x64, 0xd4, 0x94, 0x46, 0x4d, 0x46, 0x4d, 0x31, 0x11, 0x31, 0xa8, 0x5c, 0xd0, 0x05, 0x77, 0x35, 0x03, 0x9a, 0xa1, 0x15, 0xde, 0xa7, 0xb7, 0x70, 0xd0, 0xed, 0xee, 0x29, 0x81, 0xd9, 0x78, 0x59, 0xbf, 0xe2, 0x45, 0x67, 0xff, 0x5c, 0xc5, 0x6a, 0x3f, 0xcf, 0x85, 0xed, 0x5a, 0x98, 0x13, 0x83, 0x54, 0xf5, 0x5b, 0x85, 0x82, 0x05, 0xdf, 0x9c, 0x6f, 0x14, 0x99, 0x71, 0x34, 0xd1, 0xf8, 0xa4, 0x32, 0x4d, 0xe6, 0x7c, 0xb8, 0x2b, 0xef, 0x40, 0x85, 0x47, 0x75, 0x76, 0x32, 0xb8, 0xe7, 0xa0, 0x1d, 0xa8, 0x2c, 0xad, 0xcf, 0x06, 0xa4, 0x66, 0x25, 0xe5, 0xc7, 0x98, 0xb7, 0x71, 0x1e, 0x76, 0x30, 0xc6, 0x17, 0xee, 0xd6, 0x51, 0x6a, 0xcd, 0x9a, 0x21, 0x85, 0xa9, 0x84, 0xd2, 0x19, 0x19, 0x34, 0xc6, 0x34, 0xc0, 0x89, 0x8d, 0x42, 0xc6, 0x80, 0x2b, 0xb9, 0xa8, 0x18, 0xd3, 0x11, 0x03, 0xd3, 0xad, 0x1b, 0xe7, 0xc7, 0xb5, 0x50, 0x1d, 0x9f, 0x85, 0x9b, 0xfe, 0x24, 0x96, 0xbf, 0xee, 0xd6, 0xb9, 0xe4, 0x75, 0xc5, 0x68, 0x60, 0x28, 0x07, 0xbb, 0xb5, 0x24, 0xd0, 0x45, 0x3a, 0x85, 0x97, 0x2c, 0x33, 0x9e, 0xb4, 0x14, 0x58, 0xf3, 0x04, 0x7f, 0x79, 0xbf, 0x3a, 0x95, 0x65, 0xc9, 0xa4, 0x00, 0xfc, 0x9a, 0x6f, 0xdd, 0xfb, 0xb4, 0xac, 0x23, 0x3a, 0xf4, 0x01, 0x05, 0xd3, 0x02, 0xa5, 0x8e, 0x37, 0xe2, 0xb0, 0x77, 0x56, 0x6c, 0xd6, 0x3b, 0x0d, 0x2d, 0x4d, 0x26, 0x91, 0x43, 0x09, 0xa8, 0xd9, 0xa8, 0x02, 0x16, 0x35, 0x0b, 0x1a, 0x62, 0x20, 0x73, 0x50, 0x31, 0xa6, 0x04, 0x2c, 0x69, 0xd6, 0xb8, 0xde, 0x4f, 0x71, 0x4c, 0x0e, 0xc7, 0xc2, 0xad, 0xff, 0x12, 0x3b, 0x6f, 0xf7, 0x6b, 0x5d, 0x9f, 0x8a, 0xd4, 0xc0, 0x7a, 0xb5, 0x3b, 0x92, 0x7e, 0xf5, 0x21, 0x92, 0xef, 0xa7, 0x06, 0xa0, 0x62, 0x96, 0xa8, 0x8b, 0xfc, 0xff, 0xd2, 0x90, 0xcc, 0x97, 0x9a, 0x59, 0x3e, 0xde, 0x36, 0xc6, 0xa8, 0x0e, 0x3e, 0xe6, 0x0b, 0x7b, 0xd6, 0x56, 0x6a, 0x19, 0xa2, 0x1a, 0x4d, 0x30, 0x9a, 0x91, 0x8c, 0x26, 0xa2, 0x63, 0x40, 0x11, 0x31, 0xa8, 0x58, 0xd3, 0x11, 0x03, 0x1a, 0x84, 0x9a, 0x60, 0x44, 0xd4, 0x91, 0x38, 0x56, 0x39, 0x38, 0xa0, 0x0e, 0xc7, 0xc2, 0xad, 0xff, 0x12, 0x4b, 0x7f, 0xa5, 0x6b, 0x96, 0xe2, 0xb5, 0x30, 0x1e, 0x1a, 0xa4, 0x0f, 0x40, 0xc3, 0xcc, 0x1e, 0xb5, 0x20, 0x7a, 0x43, 0x0d, 0xf4, 0x9b, 0xa8, 0x02, 0xa5, 0xcc, 0xc1, 0xe3, 0xb8, 0x4c, 0x1c, 0xaa, 0xd7, 0x3d, 0xba, 0xb3, 0x66, 0x91, 0x1b, 0xba, 0x98, 0x5a, 0x91, 0x44, 0x65, 0xaa, 0x32, 0xd4, 0x08, 0x89, 0x9a, 0xa1, 0x63, 0x4c, 0x08, 0x58, 0xd4, 0x44, 0xd0, 0x04, 0x4c, 0x6a, 0x26, 0x34, 0xc4, 0x76, 0x7e, 0x14, 0x6f, 0xf8, 0x92, 0xc1, 0x5a, 0xfb, 0xab, 0x43, 0x11, 0xca, 0xd4, 0xfd, 0xd4, 0x0c, 0x0c, 0x81, 0x69, 0xbf, 0x69, 0x5a, 0x43, 0x1e, 0xb3, 0x07, 0xe9, 0x4e, 0xdd, 0x40, 0x14, 0x26, 0x89, 0xfc, 0xd9, 0xdc, 0xbb, 0x6c, 0x31, 0xfc, 0xa3, 0x75, 0x61, 0x6e, 0xa8, 0x66, 0x91, 0x10, 0xb5, 0x30, 0xb5, 0x21, 0x8c, 0x2d, 0x51, 0x33, 0x50, 0x04, 0x4c, 0xd5, 0x13, 0x35, 0x00, 0x44, 0xc6, 0xa2, 0x26, 0x98, 0x88, 0xc9, 0xa8, 0x98, 0xd0, 0x07,
+
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 011000 Coeff: -39
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1001
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 11111110111 code: 7f7 symbol: 52
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 111110110 code: 1f6 symbol: 14
+Reading 4 bits in disguarded AC coeff 1100
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111111110010110 code: ff96 symbol: 43
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 111111001 code: 1f9 symbol: 91
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 1011 code: b symbol: 11
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 11111110110 code: 7f6 symbol: 15
+Reading 5 bits in stored AC coeff 10001 Coeff: 17
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111111110010110 code: ff96 symbol: 43
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 11111110110 code: 7f6 symbol: 15
+Reading 5 bits in disguarded AC coeff 10101
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0111
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111111110010110 code: ff96 symbol: 43
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 111111010 code: 1fa symbol: a1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 1011 code: b symbol: 11
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10101
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 001
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 111111001 code: 1f9 symbol: 91
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 11010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 111011 code: 3b symbol: 41
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 11001
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 111011 code: 3b symbol: 41
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 001
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111111001 code: 1f9 symbol: 91
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10110
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 110111 Coeff: 55
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in stored AC coeff 00110 Coeff: -25
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 01001
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0101
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1001 Coeff: 9
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1011 Coeff: 11
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in stored AC coeff 0011 Coeff: -12
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 111111000 code: 1f8 symbol: 81
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 00010 Coeff: -29
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1111011 code: 7b symbol: 61
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01001 Coeff: -22
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in stored AC coeff 00 Coeff: -3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 001
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 111 Coeff: 7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 00 Coeff: -3
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0101
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 110 Coeff: 6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0011
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 110 Coeff: 6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0010
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111010 code: 7a symbol: 51
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0010
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111010 code: 7a symbol: 51
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 1011 code: b symbol: 11
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0001
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111010 code: 7a symbol: 51
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 111110110 code: 1f6 symbol: 14
+Reading 4 bits in disguarded AC coeff 0001
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111010 code: 7a symbol: 51
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 1011 code: b symbol: 11
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 110000 Coeff: 48
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in stored AC coeff 00100 Coeff: -27
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 01010
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111010 code: 7a symbol: 51
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1111111001 code: 3f9 symbol: b1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1010 Coeff: 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1001 Coeff: 9
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in stored AC coeff 01111 Coeff: -16
+Reading symbol 111111110101 code: ff5 symbol: 33
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 00101 Coeff: -26
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1100
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 111111110110 code: ff6 symbol: 62
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01101 Coeff: -18
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 111 Coeff: 7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1101 Coeff: 13
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1011 Coeff: 11
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1000 Coeff: 8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in stored AC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 11111 Coeff: 31
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in stored AC coeff 01000 Coeff: -23
+Reading symbol 1111111110010000 code: ff90 symbol: 35
+Reading 5 bits in disguarded AC coeff 01111
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1000 Coeff: 8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in stored AC coeff 01111 Coeff: -16
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01100 Coeff: -19
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10010
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1111
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 1111011 code: 7b symbol: 61
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0000 Coeff: -15
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 110 Coeff: 6
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1011 Coeff: 11
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 001 Coeff: -6
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1100 Coeff: 12
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1000 Coeff: 8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 11100 Coeff: 28
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in stored AC coeff 00101 Coeff: -26
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0010
+Reading symbol 111111111000000 code: 7fc0 symbol: 82
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1100 Coeff: 12
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 11011 code: 1b symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in stored AC coeff 0010 Coeff: -13
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1111011 code: 7b symbol: 61
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0000 Coeff: -15
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 11001
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1111010 code: 7a symbol: 51
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01111 Coeff: -16
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 110 Coeff: 6
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 111 Coeff: 7
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 011 Coeff: -4
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1000 Coeff: 8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1000 Coeff: 8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 11110 Coeff: 30
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in stored AC coeff 011110 Coeff: -33
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0011
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 1111111110101110 code: ffae symbol: 73
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 1111111010 code: 3fa symbol: c1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10001 Coeff: 17
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 100 code: 4 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 11011 code: 1b symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0101 Coeff: -10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in stored AC coeff 0110 Coeff: -9
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1000
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0101 Coeff: -10
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 11101
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1111110111 code: 3f7 symbol: 23
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 001
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01110 Coeff: -17
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 111 Coeff: 7
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 110 Coeff: 6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 110 Coeff: 6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 11110 Coeff: 30
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in stored AC coeff 011010 Coeff: -37
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1111110111 code: 3f7 symbol: 23
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 111111110110 code: ff6 symbol: 62
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10110 Coeff: 22
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 100 code: 4 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 11011 code: 1b symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 011 Coeff: -4
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 11101
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1111110111 code: 3f7 symbol: 23
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1111010 code: 7a symbol: 51
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01000 Coeff: -23
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 110 Coeff: 6
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 11101 Coeff: 29
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in stored AC coeff 011001 Coeff: -38
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 111110110 code: 1f6 symbol: 14
+Reading 4 bits in disguarded AC coeff 1010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11111001 code: f9 symbol: 22
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1111111010 code: 3fa symbol: c1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 11010 Coeff: 26
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 100 code: 4 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 11011 code: 1b symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 11010
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0011
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1111011 code: 7b symbol: 61
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 00101 Coeff: -26
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1010 Coeff: 10
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 01111
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0100
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1000
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 1011 code: b symbol: 11
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1010 Coeff: 10
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 011 Coeff: -4
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 00100
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10011
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0001
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 1111111110111110 code: ffbe symbol: 92
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1010 Coeff: 10
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in disguarded AC coeff 011011
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10110
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1111111110010111 code: ff97 symbol: 44
+Reading 4 bits in disguarded AC coeff 0011
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 1011 code: b symbol: 11
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 111001 code: 39 symbol: 12
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1011 Coeff: 11
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 011 Coeff: -4
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in disguarded AC coeff 010001
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 11000
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1111111110010111 code: ff97 symbol: 44
+Reading 4 bits in disguarded AC coeff 0111
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111111110111110 code: ffbe symbol: 92
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1011 Coeff: 11
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in disguarded AC coeff 001001
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10101
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 1011 code: b symbol: 11
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 11110110 code: f6 symbol: 13
+Reading 3 bits in stored AC coeff 101 Coeff: 5
+Reading symbol 100 code: 4 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1001 Coeff: 9
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 011 Coeff: -4
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in disguarded AC coeff 000010
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10010
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0111
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 111111000 code: 1f8 symbol: 81
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1001 Coeff: 9
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in disguarded AC coeff 000000
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1011
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 1011 code: b symbol: 11
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 11110110 code: f6 symbol: 13
+Reading 3 bits in stored AC coeff 110 Coeff: 6
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 111 Coeff: 7
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 01111
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10001
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1010
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 11011 code: 1b symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 100 Coeff: 4
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 110 Coeff: 6
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10001
+Reading symbol 11111001 code: f9 symbol: 22
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0000
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 111111110111 code: ff7 symbol: 72
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 110110 Coeff: 54
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in stored AC coeff 010111 Coeff: -40
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0100
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 001
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0111
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 00011
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0101
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1111011 code: 7b symbol: 61
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 11000 Coeff: 24
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111111110010110 code: ff96 symbol: 43
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111111000 code: 1f8 symbol: 81
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 111010 code: 3a symbol: 41
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1100 Coeff: 12
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 001
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 111111000 code: 1f8 symbol: 81
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10110
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0110
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1111111000 code: 3f8 symbol: 42
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 100 code: 4 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10101 Coeff: 21
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 1111001 code: 79 symbol: 13
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111110111 code: 3f7 symbol: 23
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1111010 code: 7a symbol: 51
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0100 Coeff: -11
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10010
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 00100 Coeff: -27
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in stored AC coeff 10000 Coeff: 16
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1001
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0010
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01011 Coeff: -20
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0110 Coeff: -9
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 100 Coeff: 4
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1000 Coeff: 8
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11111001 code: f9 symbol: 22
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0011
+Reading symbol 111111111000000 code: 7fc0 symbol: 82
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 111110 Coeff: 62
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in stored AC coeff 01010 Coeff: -21
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0000
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1100 Coeff: 12
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 011 Coeff: -4
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0100
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 111111110110 code: ff6 symbol: 62
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111111001 code: 3f9 symbol: b1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 11011 code: 1b symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10001 Coeff: 17
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1001
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11111001 code: f9 symbol: 22
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 00011 Coeff: -28
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in stored AC coeff 1111 Coeff: 15
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0011
+Reading symbol 111110110 code: 1f6 symbol: 14
+Reading 4 bits in disguarded AC coeff 0111
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0100
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1111011 code: 7b symbol: 61
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01000 Coeff: -23
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 111 Coeff: 7
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0111
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 001
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 111011 code: 3b symbol: 41
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 110010 Coeff: 50
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in stored AC coeff 010110 Coeff: -41
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1111111110001001 code: ff89 symbol: 25
+Reading 5 bits in disguarded AC coeff 00010
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0011
+Reading symbol 1111111110101110 code: ffae symbol: 73
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10100 Coeff: 20
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 11111001 code: f9 symbol: 22
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 111011 code: 3b symbol: 41
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 111 Coeff: 7
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0011 Coeff: -12
+Reading symbol 11010 code: 1a symbol: 5
+Reading 5 bits in disguarded AC coeff 10101
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1000
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 100 code: 4 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10011 Coeff: 19
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 00 Coeff: -3
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 1111001 code: 79 symbol: 13
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 11111001 code: f9 symbol: 22
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1111011 code: 7b symbol: 61
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 00 Coeff: -3
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 111011 code: 3b symbol: 41
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 00100 Coeff: -27
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in stored AC coeff 1100 Coeff: 12
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1000
+Reading symbol 1111001 code: 79 symbol: 13
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1011
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01010 Coeff: -21
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0111 Coeff: -8
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0100
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11111001 code: f9 symbol: 22
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111011 code: 7b symbol: 61
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 110011 Coeff: 51
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in stored AC coeff 010110 Coeff: -41
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1111111110001001 code: ff89 symbol: 25
+Reading 5 bits in disguarded AC coeff 00100
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0101
+Reading symbol 111111110111 code: ff7 symbol: 72
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10111 Coeff: 23
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111011 code: 3b symbol: 41
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 1000 Coeff: 8
+Reading symbol 1111001 code: 79 symbol: 13
+Reading 3 bits in stored AC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 111111001 code: 1f9 symbol: 91
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 1011 code: b symbol: 11
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01110 Coeff: -17
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in stored AC coeff 1101 Coeff: 13
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 00001 Coeff: -30
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 100 code: 4 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 11011 code: 1b symbol: 31
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0101
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111011 code: 3b symbol: 41
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 110001 Coeff: 49
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in stored AC coeff 010101 Coeff: -42
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1111111110001001 code: ff89 symbol: 25
+Reading 5 bits in disguarded AC coeff 00011
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0110
+Reading symbol 111111110111 code: ff7 symbol: 72
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10111 Coeff: 23
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 11111001 code: f9 symbol: 22
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1111111010 code: 3fa symbol: c1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01001 Coeff: -22
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 111110110 code: 1f6 symbol: 14
+Reading 4 bits in disguarded AC coeff 1111
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 111110111 code: 1f7 symbol: 32
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1111011 code: 7b symbol: 61
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 01010 Coeff: -21
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 110001 Coeff: 49
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in stored AC coeff 010101 Coeff: -42
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1111111110001001 code: ff89 symbol: 25
+Reading 5 bits in disguarded AC coeff 00100
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 0111
+Reading symbol 11111010 code: fa symbol: 71
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10111 Coeff: 23
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11100 code: 1c symbol: 21
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 101 Coeff: 5
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 000 Coeff: -7
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 0 Coeff: -1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 1111001 code: 79 symbol: 13
+Reading 3 bits in stored AC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1111010 code: 7a symbol: 51
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in stored AC coeff 11 Coeff: 3
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0100 Coeff: -11
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in stored AC coeff 1001 Coeff: 9
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 1011 code: b symbol: 4
+Reading 4 bits in disguarded AC coeff 1000
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1100 code: c symbol: 11
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 011110 Coeff: -33
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 100 code: 4 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 1110 code: e symbol: 6
+Reading 6 bits in DC coeff 110011 Coeff: 51
+Reading symbol 1111000 code: 78 symbol: 6
+Reading 6 bits in stored AC coeff 010100 Coeff: -43
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1111111110001001 code: ff89 symbol: 25
+Reading 5 bits in disguarded AC coeff 00101
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 000
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 10111 Coeff: 23
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 001 Coeff: -6
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 100
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 01 Coeff: -2
+Reading symbol 111110110 code: 1f6 symbol: 14
+Reading 4 bits in disguarded AC coeff 1001
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 11 Coeff: 3
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 110
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 111010 code: 3a symbol: 31
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 10 Coeff: 2
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 101 code: 5 symbol: 4
+Reading 4 bits in DC coeff 0000 Coeff: -15
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in stored AC coeff 110 Coeff: 6
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 010
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 1111001 code: 79 symbol: 13
+Reading 3 bits in disguarded AC coeff 101
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 111
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 11
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 00
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in disguarded AC coeff 011
+Reading symbol 11111001 code: f9 symbol: 22
+Reading 2 bits in disguarded AC coeff 01
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 0
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 110 code: 6 symbol: 5
+Reading 5 bits in DC coeff 00010 Coeff: -29
+Reading symbol 11011 code: 1b symbol: 12
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 10 code: 2 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 110 code: 6 symbol: 3
+Reading 3 bits in DC coeff 100 Coeff: 4
+Reading symbol 100 code: 4 symbol: 2
+Reading 2 bits in stored AC coeff 01 Coeff: -2
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 010 code: 2 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 011 code: 3 symbol: 2
+Reading 2 bits in DC coeff 00 Coeff: -3
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in stored AC coeff 10 Coeff: 2
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 01 code: 1 symbol: 1
+Reading 1 bits in DC coeff 0 Coeff: -1
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 011 Coeff: -4
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in stored AC coeff 1 Coeff: 1
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 100 code: 4 symbol: 3
+Reading 3 bits in DC coeff 010 Coeff: -5
+Reading symbol 01 code: 1 symbol: 2
+Reading 2 bits in disguarded AC coeff 10
+Reading symbol 00 code: 0 symbol: 1
+Reading 1 bits in disguarded AC coeff 1
+Reading symbol 1010 code: a symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading symbol 00 code: 0 symbol: 0
+Reading 0 bits in DC coeff  Coeff: 0
+Reading symbol 00 code: 0 symbol: 0
+
+
+Post Huffman:
+Y values: (-39, -39) | Cb values: (0, 0) | Cr values: (-3, 0)
+Y values: (-40, -41) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-46, -47) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-49, -52) | Cb values: (1, 0) | Cr values: (0, 0)
+Y values: (3, 12) | Cb values: (-1, 0) | Cr values: (-1, 0)
+Y values: (7, 2) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (-2, -7) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (-13, -19) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (-25, -32) | Cb values: (0, 0) | Cr values: (-1, 0)
+Y values: (-21, -50) | Cb values: (1, 0) | Cr values: (-3, 0)
+Y values: (-72, -69) | Cb values: (1, 0) | Cr values: (1, 0)
+Y values: (-62, -56) | Cb values: (1, 0) | Cr values: (2, 0)
+Y values: (-50, -45) | Cb values: (1, 0) | Cr values: (3, 0)
+Y values: (-41, -39) | Cb values: (2, 0) | Cr values: (4, 0)
+Y values: (9, 19) | Cb values: (-1, 1) | Cr values: (0, 0)
+Y values: (13, 6) | Cb values: (-3, 0) | Cr values: (0, 0)
+Y values: (1, -3) | Cb values: (-2, 0) | Cr values: (0, 0)
+Y values: (-9, -16) | Cb values: (-2, 0) | Cr values: (0, 0)
+Y values: (-23, -30) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (-21, -47) | Cb values: (0, 0) | Cr values: (-2, 0)
+Y values: (-65, -58) | Cb values: (0, 0) | Cr values: (3, 0)
+Y values: (-45, -34) | Cb values: (0, 0) | Cr values: (4, 0)
+Y values: (-26, -21) | Cb values: (0, 0) | Cr values: (5, 0)
+Y values: (-17, -16) | Cb values: (0, 0) | Cr values: (5, 0)
+Y values: (15, 23) | Cb values: (-3, 1) | Cr values: (0, 0)
+Y values: (16, 10) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (4, 0) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-5, -14) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-22, -29) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-24, -43) | Cb values: (-1, 0) | Cr values: (-2, 0)
+Y values: (-58, -54) | Cb values: (0, 0) | Cr values: (4, 0)
+Y values: (-43, -31) | Cb values: (-1, 0) | Cr values: (6, 0)
+Y values: (-23, -18) | Cb values: (-1, 0) | Cr values: (7, 0)
+Y values: (-16, -15) | Cb values: (-1, 0) | Cr values: (6, 0)
+Y values: (13, 25) | Cb values: (-4, 0) | Cr values: (1, 1)
+Y values: (19, 13) | Cb values: (-5, 0) | Cr values: (0, 0)
+Y values: (7, 2) | Cb values: (-5, 0) | Cr values: (0, 0)
+Y values: (-1, -10) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-19, -27) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-25, -40) | Cb values: (-1, -1) | Cr values: (-1, 0)
+Y values: (-56, -52) | Cb values: (0, 0) | Cr values: (5, 0)
+Y values: (-45, -37) | Cb values: (-1, 0) | Cr values: (8, 0)
+Y values: (-29, -24) | Cb values: (-2, 0) | Cr values: (9, 0)
+Y values: (-21, -21) | Cb values: (-2, 0) | Cr values: (9, 0)
+Y values: (9, 26) | Cb values: (-5, 0) | Cr values: (2, 2)
+Y values: (21, 15) | Cb values: (-5, 0) | Cr values: (0, 0)
+Y values: (10, 5) | Cb values: (-5, 0) | Cr values: (0, 0)
+Y values: (0, -7) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-17, -25) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-26, -36) | Cb values: (-2, -1) | Cr values: (-1, 0)
+Y values: (-53, -50) | Cb values: (0, 0) | Cr values: (6, 0)
+Y values: (-45, -39) | Cb values: (0, 0) | Cr values: (8, 0)
+Y values: (-33, -29) | Cb values: (-1, 0) | Cr values: (11, 0)
+Y values: (-26, -25) | Cb values: (-1, 0) | Cr values: (11, 0)
+Y values: (5, 27) | Cb values: (-4, 0) | Cr values: (3, 3)
+Y values: (22, 17) | Cb values: (-5, 0) | Cr values: (1, 0)
+Y values: (12, 7) | Cb values: (-5, 0) | Cr values: (0, 0)
+Y values: (1, -5) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-14, -22) | Cb values: (-3, 0) | Cr values: (0, 0)
+Y values: (-26, -30) | Cb values: (-1, -1) | Cr values: (0, 1)
+Y values: (-53, -50) | Cb values: (1, 0) | Cr values: (6, 0)
+Y values: (-46, -41) | Cb values: (0, 0) | Cr values: (9, 0)
+Y values: (-37, -33) | Cb values: (-1, 0) | Cr values: (11, 0)
+Y values: (-30, -29) | Cb values: (-2, 0) | Cr values: (12, 0)
+Y values: (0, 26) | Cb values: (-4, 0) | Cr values: (3, 3)
+Y values: (22, 17) | Cb values: (-5, 0) | Cr values: (1, 0)
+Y values: (13, 8) | Cb values: (-5, 0) | Cr values: (1, 0)
+Y values: (2, -4) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-13, -20) | Cb values: (-3, 0) | Cr values: (0, 0)
+Y values: (-28, -26) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (-52, -42) | Cb values: (1, 0) | Cr values: (4, 0)
+Y values: (-32, -22) | Cb values: (0, 0) | Cr values: (5, 0)
+Y values: (-11, 0) | Cb values: (0, 0) | Cr values: (6, 0)
+Y values: (9, 18) | Cb values: (0, 0) | Cr values: (4, 0)
+Y values: (25, 23) | Cb values: (-4, 1) | Cr values: (1, 0)
+Y values: (20, 16) | Cb values: (-5, 0) | Cr values: (1, 0)
+Y values: (12, 6) | Cb values: (-5, 0) | Cr values: (1, 0)
+Y values: (1, -5) | Cb values: (-4, 0) | Cr values: (0, 0)
+Y values: (-14, -21) | Cb values: (-3, 0) | Cr values: (0, 0)
+Y values: (-30, -24) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (30, 54) | Cb values: (4, 0) | Cr values: (-7, 0)
+Y values: (66, 57) | Cb values: (2, 1) | Cr values: (-5, -2)
+Y values: (78, 74) | Cb values: (2, 0) | Cr values: (-5, 0)
+Y values: (77, 66) | Cb values: (1, 0) | Cr values: (-4, 0)
+Y values: (39, 19) | Cb values: (-4, 1) | Cr values: (0, -1)
+Y values: (16, 13) | Cb values: (-5, 0) | Cr values: (1, 0)
+Y values: (9, 4) | Cb values: (-5, 0) | Cr values: (1, 0)
+Y values: (-1, -7) | Cb values: (-3, 0) | Cr values: (1, 0)
+Y values: (-15, -22) | Cb values: (-3, 0) | Cr values: (0, 0)
+Y values: (-31, -23) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (39, 51) | Cb values: (4, 0) | Cr values: (-7, 0)
+Y values: (55, 51) | Cb values: (3, 1) | Cr values: (-5, -1)
+Y values: (68, 70) | Cb values: (2, 0) | Cr values: (-5, 0)
+Y values: (70, 66) | Cb values: (1, 0) | Cr values: (-4, 0)
+Y values: (38, 15) | Cb values: (-3, 1) | Cr values: (0, -1)
+Y values: (13, 9) | Cb values: (-5, 0) | Cr values: (2, 0)
+Y values: (5, 1) | Cb values: (-4, 0) | Cr values: (1, 0)
+Y values: (-4, -10) | Cb values: (-4, 0) | Cr values: (1, 0)
+Y values: (-18, -25) | Cb values: (-2, 0) | Cr values: (0, 0)
+Y values: (-33, -26) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (24, 44) | Cb values: (4, 0) | Cr values: (-7, 0)
+Y values: (51, 39) | Cb values: (3, 1) | Cr values: (-4, -2)
+Y values: (58, 57) | Cb values: (3, 0) | Cr values: (-5, 0)
+Y values: (58, 58) | Cb values: (1, 0) | Cr values: (-4, 0)
+Y values: (31, 10) | Cb values: (-3, 1) | Cr values: (0, -1)
+Y values: (7, 4) | Cb values: (-4, 0) | Cr values: (1, 0)
+Y values: (0, -3) | Cb values: (-3, 0) | Cr values: (1, 0)
+Y values: (-8, -14) | Cb values: (-3, 0) | Cr values: (1, 0)
+Y values: (-22, -29) | Cb values: (-2, 0) | Cr values: (0, 0)
+Y values: (-36, -34) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (17, 40) | Cb values: (4, 0) | Cr values: (-7, 0)
+Y values: (41, 40) | Cb values: (4, 0) | Cr values: (-5, 0)
+Y values: (48, 53) | Cb values: (3, 0) | Cr values: (-5, 0)
+Y values: (53, 51) | Cb values: (2, 0) | Cr values: (-6, 0)
+Y values: (34, 4) | Cb values: (-2, 1) | Cr values: (-1, -2)
+Y values: (2, 0) | Cb values: (-3, 0) | Cr values: (1, 0)
+Y values: (-3, -7) | Cb values: (-3, 0) | Cr values: (1, 0)
+Y values: (-13, -19) | Cb values: (-2, 0) | Cr values: (0, 0)
+Y values: (-26, -33) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (-39, -37) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (12, 35) | Cb values: (5, 0) | Cr values: (-7, 0)
+Y values: (38, 40) | Cb values: (4, 0) | Cr values: (-6, 0)
+Y values: (45, 47) | Cb values: (4, 0) | Cr values: (-5, 0)
+Y values: (48, 43) | Cb values: (3, 0) | Cr values: (-4, 0)
+Y values: (21, 0) | Cb values: (0, 1) | Cr values: (0, -1)
+Y values: (-2, -5) | Cb values: (-2, 0) | Cr values: (1, 0)
+Y values: (-8, -13) | Cb values: (-2, 0) | Cr values: (1, 0)
+Y values: (-18, -24) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (-31, -37) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-42, -43) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (6, 29) | Cb values: (5, 0) | Cr values: (-7, 0)
+Y values: (32, 36) | Cb values: (5, 0) | Cr values: (-6, 0)
+Y values: (36, 40) | Cb values: (4, 0) | Cr values: (-5, 0)
+Y values: (40, 39) | Cb values: (4, 0) | Cr values: (-5, 0)
+Y values: (28, -5) | Cb values: (0, 1) | Cr values: (-1, -2)
+Y values: (-7, -10) | Cb values: (-1, 0) | Cr values: (1, 0)
+Y values: (-14, -18) | Cb values: (-1, 0) | Cr values: (0, 0)
+Y values: (-23, -29) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-35, -40) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-45, -50) | Cb values: (1, 0) | Cr values: (-1, 0)
+Y values: (1, 24) | Cb values: (5, 0) | Cr values: (-7, 0)
+Y values: (26, 29) | Cb values: (5, 0) | Cr values: (-6, 0)
+Y values: (29, 27) | Cb values: (4, 0) | Cr values: (-5, 0)
+Y values: (30, 32) | Cb values: (4, 0) | Cr values: (-5, 0)
+Y values: (17, -12) | Cb values: (1, 1) | Cr values: (-1, -2)
+Y values: (-13, -16) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-19, -24) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-29, -34) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-39, -44) | Cb values: (1, 0) | Cr values: (-1, 0)
+Y values: (-48, -53) | Cb values: (1, 0) | Cr values: (-1, 0)
+
+
+Post Dequantize:
+Y values: (-468, -468) | Cb values: (0, 0) | Cr values: (-39, 0)
+Y values: (-480, -492) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-552, -564) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-588, -624) | Cb values: (13, 0) | Cr values: (0, 0)
+Y values: (36, 144) | Cb values: (-13, 0) | Cr values: (-13, 0)
+Y values: (84, 24) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (-24, -84) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (-156, -228) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (-300, -384) | Cb values: (0, 0) | Cr values: (-13, 0)
+Y values: (-252, -600) | Cb values: (13, 0) | Cr values: (-39, 0)
+Y values: (-864, -828) | Cb values: (13, 0) | Cr values: (13, 0)
+Y values: (-744, -672) | Cb values: (13, 0) | Cr values: (26, 0)
+Y values: (-600, -540) | Cb values: (13, 0) | Cr values: (39, 0)
+Y values: (-492, -468) | Cb values: (26, 0) | Cr values: (52, 0)
+Y values: (108, 228) | Cb values: (-13, 14) | Cr values: (0, 0)
+Y values: (156, 72) | Cb values: (-39, 0) | Cr values: (0, 0)
+Y values: (12, -36) | Cb values: (-26, 0) | Cr values: (0, 0)
+Y values: (-108, -192) | Cb values: (-26, 0) | Cr values: (0, 0)
+Y values: (-276, -360) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (-252, -564) | Cb values: (0, 0) | Cr values: (-26, 0)
+Y values: (-780, -696) | Cb values: (0, 0) | Cr values: (39, 0)
+Y values: (-540, -408) | Cb values: (0, 0) | Cr values: (52, 0)
+Y values: (-312, -252) | Cb values: (0, 0) | Cr values: (65, 0)
+Y values: (-204, -192) | Cb values: (0, 0) | Cr values: (65, 0)
+Y values: (180, 276) | Cb values: (-39, 14) | Cr values: (0, 0)
+Y values: (192, 120) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (48, 0) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-60, -168) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-264, -348) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-288, -516) | Cb values: (-13, 0) | Cr values: (-26, 0)
+Y values: (-696, -648) | Cb values: (0, 0) | Cr values: (52, 0)
+Y values: (-516, -372) | Cb values: (-13, 0) | Cr values: (78, 0)
+Y values: (-276, -216) | Cb values: (-13, 0) | Cr values: (91, 0)
+Y values: (-192, -180) | Cb values: (-13, 0) | Cr values: (78, 0)
+Y values: (156, 300) | Cb values: (-52, 0) | Cr values: (13, 14)
+Y values: (228, 156) | Cb values: (-65, 0) | Cr values: (0, 0)
+Y values: (84, 24) | Cb values: (-65, 0) | Cr values: (0, 0)
+Y values: (-12, -120) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-228, -324) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-300, -480) | Cb values: (-13, -14) | Cr values: (-13, 0)
+Y values: (-672, -624) | Cb values: (0, 0) | Cr values: (65, 0)
+Y values: (-540, -444) | Cb values: (-13, 0) | Cr values: (104, 0)
+Y values: (-348, -288) | Cb values: (-26, 0) | Cr values: (117, 0)
+Y values: (-252, -252) | Cb values: (-26, 0) | Cr values: (117, 0)
+Y values: (108, 312) | Cb values: (-65, 0) | Cr values: (26, 28)
+Y values: (252, 180) | Cb values: (-65, 0) | Cr values: (0, 0)
+Y values: (120, 60) | Cb values: (-65, 0) | Cr values: (0, 0)
+Y values: (0, -84) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-204, -300) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-312, -432) | Cb values: (-26, -14) | Cr values: (-13, 0)
+Y values: (-636, -600) | Cb values: (0, 0) | Cr values: (78, 0)
+Y values: (-540, -468) | Cb values: (0, 0) | Cr values: (104, 0)
+Y values: (-396, -348) | Cb values: (-13, 0) | Cr values: (143, 0)
+Y values: (-312, -300) | Cb values: (-13, 0) | Cr values: (143, 0)
+Y values: (60, 324) | Cb values: (-52, 0) | Cr values: (39, 42)
+Y values: (264, 204) | Cb values: (-65, 0) | Cr values: (13, 0)
+Y values: (144, 84) | Cb values: (-65, 0) | Cr values: (0, 0)
+Y values: (12, -60) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-168, -264) | Cb values: (-39, 0) | Cr values: (0, 0)
+Y values: (-312, -360) | Cb values: (-13, -14) | Cr values: (0, 14)
+Y values: (-636, -600) | Cb values: (13, 0) | Cr values: (78, 0)
+Y values: (-552, -492) | Cb values: (0, 0) | Cr values: (117, 0)
+Y values: (-444, -396) | Cb values: (-13, 0) | Cr values: (143, 0)
+Y values: (-360, -348) | Cb values: (-26, 0) | Cr values: (156, 0)
+Y values: (0, 312) | Cb values: (-52, 0) | Cr values: (39, 42)
+Y values: (264, 204) | Cb values: (-65, 0) | Cr values: (13, 0)
+Y values: (156, 96) | Cb values: (-65, 0) | Cr values: (13, 0)
+Y values: (24, -48) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-156, -240) | Cb values: (-39, 0) | Cr values: (0, 0)
+Y values: (-336, -312) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (-624, -504) | Cb values: (13, 0) | Cr values: (52, 0)
+Y values: (-384, -264) | Cb values: (0, 0) | Cr values: (65, 0)
+Y values: (-132, 0) | Cb values: (0, 0) | Cr values: (78, 0)
+Y values: (108, 216) | Cb values: (0, 0) | Cr values: (52, 0)
+Y values: (300, 276) | Cb values: (-52, 14) | Cr values: (13, 0)
+Y values: (240, 192) | Cb values: (-65, 0) | Cr values: (13, 0)
+Y values: (144, 72) | Cb values: (-65, 0) | Cr values: (13, 0)
+Y values: (12, -60) | Cb values: (-52, 0) | Cr values: (0, 0)
+Y values: (-168, -252) | Cb values: (-39, 0) | Cr values: (0, 0)
+Y values: (-360, -288) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (360, 648) | Cb values: (52, 0) | Cr values: (-91, 0)
+Y values: (792, 684) | Cb values: (26, 14) | Cr values: (-65, -28)
+Y values: (936, 888) | Cb values: (26, 0) | Cr values: (-65, 0)
+Y values: (924, 792) | Cb values: (13, 0) | Cr values: (-52, 0)
+Y values: (468, 228) | Cb values: (-52, 14) | Cr values: (0, -14)
+Y values: (192, 156) | Cb values: (-65, 0) | Cr values: (13, 0)
+Y values: (108, 48) | Cb values: (-65, 0) | Cr values: (13, 0)
+Y values: (-12, -84) | Cb values: (-39, 0) | Cr values: (13, 0)
+Y values: (-180, -264) | Cb values: (-39, 0) | Cr values: (0, 0)
+Y values: (-372, -276) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (468, 612) | Cb values: (52, 0) | Cr values: (-91, 0)
+Y values: (660, 612) | Cb values: (39, 14) | Cr values: (-65, -14)
+Y values: (816, 840) | Cb values: (26, 0) | Cr values: (-65, 0)
+Y values: (840, 792) | Cb values: (13, 0) | Cr values: (-52, 0)
+Y values: (456, 180) | Cb values: (-39, 14) | Cr values: (0, -14)
+Y values: (156, 108) | Cb values: (-65, 0) | Cr values: (26, 0)
+Y values: (60, 12) | Cb values: (-52, 0) | Cr values: (13, 0)
+Y values: (-48, -120) | Cb values: (-52, 0) | Cr values: (13, 0)
+Y values: (-216, -300) | Cb values: (-26, 0) | Cr values: (0, 0)
+Y values: (-396, -312) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (288, 528) | Cb values: (52, 0) | Cr values: (-91, 0)
+Y values: (612, 468) | Cb values: (39, 14) | Cr values: (-52, -28)
+Y values: (696, 684) | Cb values: (39, 0) | Cr values: (-65, 0)
+Y values: (696, 696) | Cb values: (13, 0) | Cr values: (-52, 0)
+Y values: (372, 120) | Cb values: (-39, 14) | Cr values: (0, -14)
+Y values: (84, 48) | Cb values: (-52, 0) | Cr values: (13, 0)
+Y values: (0, -36) | Cb values: (-39, 0) | Cr values: (13, 0)
+Y values: (-96, -168) | Cb values: (-39, 0) | Cr values: (13, 0)
+Y values: (-264, -348) | Cb values: (-26, 0) | Cr values: (0, 0)
+Y values: (-432, -408) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (204, 480) | Cb values: (52, 0) | Cr values: (-91, 0)
+Y values: (492, 480) | Cb values: (52, 0) | Cr values: (-65, 0)
+Y values: (576, 636) | Cb values: (39, 0) | Cr values: (-65, 0)
+Y values: (636, 612) | Cb values: (26, 0) | Cr values: (-78, 0)
+Y values: (408, 48) | Cb values: (-26, 14) | Cr values: (-13, -28)
+Y values: (24, 0) | Cb values: (-39, 0) | Cr values: (13, 0)
+Y values: (-36, -84) | Cb values: (-39, 0) | Cr values: (13, 0)
+Y values: (-156, -228) | Cb values: (-26, 0) | Cr values: (0, 0)
+Y values: (-312, -396) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (-468, -444) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (144, 420) | Cb values: (65, 0) | Cr values: (-91, 0)
+Y values: (456, 480) | Cb values: (52, 0) | Cr values: (-78, 0)
+Y values: (540, 564) | Cb values: (52, 0) | Cr values: (-65, 0)
+Y values: (576, 516) | Cb values: (39, 0) | Cr values: (-52, 0)
+Y values: (252, 0) | Cb values: (0, 14) | Cr values: (0, -14)
+Y values: (-24, -60) | Cb values: (-26, 0) | Cr values: (13, 0)
+Y values: (-96, -156) | Cb values: (-26, 0) | Cr values: (13, 0)
+Y values: (-216, -288) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (-372, -444) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-504, -516) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (72, 348) | Cb values: (65, 0) | Cr values: (-91, 0)
+Y values: (384, 432) | Cb values: (65, 0) | Cr values: (-78, 0)
+Y values: (432, 480) | Cb values: (52, 0) | Cr values: (-65, 0)
+Y values: (480, 468) | Cb values: (52, 0) | Cr values: (-65, 0)
+Y values: (336, -60) | Cb values: (0, 14) | Cr values: (-13, -28)
+Y values: (-84, -120) | Cb values: (-13, 0) | Cr values: (13, 0)
+Y values: (-168, -216) | Cb values: (-13, 0) | Cr values: (0, 0)
+Y values: (-276, -348) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-420, -480) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-540, -600) | Cb values: (13, 0) | Cr values: (-13, 0)
+Y values: (12, 288) | Cb values: (65, 0) | Cr values: (-91, 0)
+Y values: (312, 348) | Cb values: (65, 0) | Cr values: (-78, 0)
+Y values: (348, 324) | Cb values: (52, 0) | Cr values: (-65, 0)
+Y values: (360, 384) | Cb values: (52, 0) | Cr values: (-65, 0)
+Y values: (204, -144) | Cb values: (13, 14) | Cr values: (-13, -28)
+Y values: (-156, -192) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-228, -288) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-348, -408) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-468, -528) | Cb values: (13, 0) | Cr values: (-13, 0)
+Y values: (-576, -636) | Cb values: (13, 0) | Cr values: (-13, 0)
+Called: 10653 Error: 0
+
+MCUS:
+Y values: (-58, -58) | Cb values: (0, 0) | Cr values: (-4, -4)
+Y values: (-60, -61) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-69, -70) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-73, -78) | Cb values: (1, 1) | Cr values: (0, 0)
+Y values: (4, 18) | Cb values: (-1, -1) | Cr values: (-1, -1)
+Y values: (10, 3) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (-3, -10) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (-19, -28) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (-37, -48) | Cb values: (0, 0) | Cr values: (-1, -1)
+Y values: (-31, -75) | Cb values: (1, 1) | Cr values: (-4, -4)
+Y values: (-108, -103) | Cb values: (1, 1) | Cr values: (1, 1)
+Y values: (-93, -84) | Cb values: (1, 1) | Cr values: (3, 3)
+Y values: (-75, -67) | Cb values: (1, 1) | Cr values: (4, 4)
+Y values: (-61, -58) | Cb values: (3, 3) | Cr values: (6, 6)
+Y values: (13, 28) | Cb values: (0, -4) | Cr values: (0, 0)
+Y values: (19, 9) | Cb values: (-4, -4) | Cr values: (0, 0)
+Y values: (1, -4) | Cb values: (-3, -3) | Cr values: (0, 0)
+Y values: (-13, -24) | Cb values: (-3, -3) | Cr values: (0, 0)
+Y values: (-34, -45) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (-31, -70) | Cb values: (0, 0) | Cr values: (-3, -3)
+Y values: (-97, -87) | Cb values: (0, 0) | Cr values: (4, 4)
+Y values: (-67, -51) | Cb values: (0, 0) | Cr values: (6, 6)
+Y values: (-39, -31) | Cb values: (0, 0) | Cr values: (8, 8)
+Y values: (-25, -24) | Cb values: (0, 0) | Cr values: (8, 8)
+Y values: (22, 34) | Cb values: (-2, -7) | Cr values: (0, 0)
+Y values: (24, 15) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (6, 0) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-7, -21) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-33, -43) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-36, -64) | Cb values: (-1, -1) | Cr values: (-3, -3)
+Y values: (-87, -81) | Cb values: (0, 0) | Cr values: (6, 6)
+Y values: (-64, -46) | Cb values: (-1, -1) | Cr values: (9, 9)
+Y values: (-34, -27) | Cb values: (-1, -1) | Cr values: (11, 11)
+Y values: (-24, -22) | Cb values: (-1, -1) | Cr values: (9, 9)
+Y values: (19, 37) | Cb values: (-6, -6) | Cr values: (4, 0)
+Y values: (28, 19) | Cb values: (-8, -8) | Cr values: (0, 0)
+Y values: (10, 3) | Cb values: (-8, -8) | Cr values: (0, 0)
+Y values: (-1, -15) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-28, -40) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-37, -60) | Cb values: (-4, 0) | Cr values: (-1, -1)
+Y values: (-84, -78) | Cb values: (0, 0) | Cr values: (8, 8)
+Y values: (-67, -55) | Cb values: (-1, -1) | Cr values: (13, 13)
+Y values: (-43, -36) | Cb values: (-3, -3) | Cr values: (14, 14)
+Y values: (-31, -31) | Cb values: (-3, -3) | Cr values: (14, 14)
+Y values: (13, 39) | Cb values: (-8, -8) | Cr values: (8, -1)
+Y values: (31, 22) | Cb values: (-8, -8) | Cr values: (0, 0)
+Y values: (15, 7) | Cb values: (-8, -8) | Cr values: (0, 0)
+Y values: (0, -10) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-25, -37) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-39, -54) | Cb values: (-5, 0) | Cr values: (-1, -1)
+Y values: (-79, -75) | Cb values: (0, 0) | Cr values: (9, 9)
+Y values: (-67, -58) | Cb values: (0, 0) | Cr values: (13, 13)
+Y values: (-49, -43) | Cb values: (-1, -1) | Cr values: (17, 17)
+Y values: (-39, -37) | Cb values: (-1, -1) | Cr values: (17, 17)
+Y values: (7, 40) | Cb values: (-6, -6) | Cr values: (12, -2)
+Y values: (33, 25) | Cb values: (-8, -8) | Cr values: (1, 1)
+Y values: (18, 10) | Cb values: (-8, -8) | Cr values: (0, 0)
+Y values: (1, -7) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-21, -33) | Cb values: (-4, -4) | Cr values: (0, 0)
+Y values: (-39, -45) | Cb values: (-4, 0) | Cr values: (2, -2)
+Y values: (-79, -75) | Cb values: (1, 1) | Cr values: (9, 9)
+Y values: (-69, -61) | Cb values: (0, 0) | Cr values: (14, 14)
+Y values: (-55, -49) | Cb values: (-1, -1) | Cr values: (17, 17)
+Y values: (-45, -43) | Cb values: (-3, -3) | Cr values: (19, 19)
+Y values: (0, 39) | Cb values: (-6, -6) | Cr values: (12, -2)
+Y values: (33, 25) | Cb values: (-8, -8) | Cr values: (1, 1)
+Y values: (19, 12) | Cb values: (-8, -8) | Cr values: (1, 1)
+Y values: (3, -6) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-19, -30) | Cb values: (-4, -4) | Cr values: (0, 0)
+Y values: (-42, -39) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (-78, -63) | Cb values: (1, 1) | Cr values: (6, 6)
+Y values: (-48, -33) | Cb values: (0, 0) | Cr values: (8, 8)
+Y values: (-16, 0) | Cb values: (0, 0) | Cr values: (9, 9)
+Y values: (13, 27) | Cb values: (0, 0) | Cr values: (6, 6)
+Y values: (37, 34) | Cb values: (-4, -8) | Cr values: (1, 1)
+Y values: (30, 24) | Cb values: (-8, -8) | Cr values: (1, 1)
+Y values: (18, 9) | Cb values: (-8, -8) | Cr values: (1, 1)
+Y values: (1, -7) | Cb values: (-6, -6) | Cr values: (0, 0)
+Y values: (-21, -31) | Cb values: (-4, -4) | Cr values: (0, 0)
+Y values: (-45, -36) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (45, 81) | Cb values: (6, 6) | Cr values: (-11, -11)
+Y values: (99, 85) | Cb values: (5, 0) | Cr values: (-12, -3)
+Y values: (117, 111) | Cb values: (3, 3) | Cr values: (-8, -8)
+Y values: (115, 99) | Cb values: (1, 1) | Cr values: (-6, -6)
+Y values: (58, 28) | Cb values: (-4, -8) | Cr values: (-2, 2)
+Y values: (24, 19) | Cb values: (-8, -8) | Cr values: (1, 1)
+Y values: (13, 6) | Cb values: (-8, -8) | Cr values: (1, 1)
+Y values: (-1, -10) | Cb values: (-4, -4) | Cr values: (1, 1)
+Y values: (-22, -33) | Cb values: (-4, -4) | Cr values: (0, 0)
+Y values: (-46, -34) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (58, 76) | Cb values: (6, 6) | Cr values: (-11, -11)
+Y values: (82, 76) | Cb values: (7, 2) | Cr values: (-10, -5)
+Y values: (102, 105) | Cb values: (3, 3) | Cr values: (-8, -8)
+Y values: (105, 99) | Cb values: (1, 1) | Cr values: (-6, -6)
+Y values: (57, 22) | Cb values: (-2, -7) | Cr values: (-2, 2)
+Y values: (19, 13) | Cb values: (-8, -8) | Cr values: (3, 3)
+Y values: (7, 1) | Cb values: (-6, -6) | Cr values: (1, 1)
+Y values: (-6, -15) | Cb values: (-6, -6) | Cr values: (1, 1)
+Y values: (-27, -37) | Cb values: (-3, -3) | Cr values: (0, 0)
+Y values: (-49, -39) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (36, 66) | Cb values: (6, 6) | Cr values: (-11, -11)
+Y values: (76, 58) | Cb values: (7, 2) | Cr values: (-11, -1)
+Y values: (87, 85) | Cb values: (4, 4) | Cr values: (-8, -8)
+Y values: (87, 87) | Cb values: (1, 1) | Cr values: (-6, -6)
+Y values: (46, 15) | Cb values: (-2, -7) | Cr values: (-2, 2)
+Y values: (10, 6) | Cb values: (-6, -6) | Cr values: (1, 1)
+Y values: (0, -4) | Cb values: (-4, -4) | Cr values: (1, 1)
+Y values: (-12, -21) | Cb values: (-4, -4) | Cr values: (1, 1)
+Y values: (-33, -43) | Cb values: (-3, -3) | Cr values: (0, 0)
+Y values: (-54, -51) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (25, 60) | Cb values: (6, 6) | Cr values: (-11, -11)
+Y values: (61, 60) | Cb values: (6, 6) | Cr values: (-8, -8)
+Y values: (72, 79) | Cb values: (4, 4) | Cr values: (-8, -8)
+Y values: (79, 76) | Cb values: (3, 3) | Cr values: (-9, -9)
+Y values: (51, 6) | Cb values: (0, -5) | Cr values: (-6, 3)
+Y values: (3, 0) | Cb values: (-4, -4) | Cr values: (1, 1)
+Y values: (-4, -10) | Cb values: (-4, -4) | Cr values: (1, 1)
+Y values: (-19, -28) | Cb values: (-3, -3) | Cr values: (0, 0)
+Y values: (-39, -49) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (-58, -55) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (18, 52) | Cb values: (8, 8) | Cr values: (-11, -11)
+Y values: (57, 60) | Cb values: (6, 6) | Cr values: (-9, -9)
+Y values: (67, 70) | Cb values: (6, 6) | Cr values: (-8, -8)
+Y values: (72, 64) | Cb values: (4, 4) | Cr values: (-6, -6)
+Y values: (31, 0) | Cb values: (2, -2) | Cr values: (-2, 2)
+Y values: (-3, -7) | Cb values: (-3, -3) | Cr values: (1, 1)
+Y values: (-12, -19) | Cb values: (-3, -3) | Cr values: (1, 1)
+Y values: (-27, -36) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (-46, -55) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-63, -64) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (9, 43) | Cb values: (8, 8) | Cr values: (-11, -11)
+Y values: (48, 54) | Cb values: (8, 8) | Cr values: (-9, -9)
+Y values: (54, 60) | Cb values: (6, 6) | Cr values: (-8, -8)
+Y values: (60, 58) | Cb values: (6, 6) | Cr values: (-8, -8)
+Y values: (42, -7) | Cb values: (2, -2) | Cr values: (-6, 3)
+Y values: (-10, -15) | Cb values: (-1, -1) | Cr values: (1, 1)
+Y values: (-21, -27) | Cb values: (-1, -1) | Cr values: (0, 0)
+Y values: (-34, -43) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-52, -60) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-67, -75) | Cb values: (1, 1) | Cr values: (-1, -1)
+Y values: (1, 36) | Cb values: (8, 8) | Cr values: (-11, -11)
+Y values: (39, 43) | Cb values: (8, 8) | Cr values: (-9, -9)
+Y values: (43, 40) | Cb values: (6, 6) | Cr values: (-8, -8)
+Y values: (45, 48) | Cb values: (6, 6) | Cr values: (-8, -8)
+Y values: (25, -18) | Cb values: (4, 0) | Cr values: (-6, 3)
+Y values: (-19, -24) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-28, -36) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-43, -51) | Cb values: (0, 0) | Cr values: (0, 0)
+Y values: (-58, -66) | Cb values: (1, 1) | Cr values: (-1, -1)
+Y values: (-72, -79) | Cb values: (1, 1) | Cr values: (-1, -1)
+-58|-58|0|0|-4|-4|,-60|-61|0|0|0|0|,-69|-70|0|0|0|0|,-73|-78|1|1|0|0|,4|18|-1|-1|-1|-1|,10|3|-1|-1|0|0|,-3|-10|-1|-1|0|0|,-19|-28|-1|-1|0|0|,-37|-48|0|0|-1|-1|,-31|-75|1|1|-4|-4|,-108|-103|1|1|1|1|,-93|-84|1|1|3|3|,-75|-67|1|1|4|4|,-61|-58|3|3|6|6|,13|28|0|-4|0|0|,19|9|-4|-4|0|0|,1|-4|-3|-3|0|0|,-13|-24|-3|-3|0|0|,-34|-45|-1|-1|0|0|,-31|-70|0|0|-3|-3|,-97|-87|0|0|4|4|,-67|-51|0|0|6|6|,-39|-31|0|0|8|8|,-25|-24|0|0|8|8|,22|34|-2|-7|0|0|,24|15|-6|-6|0|0|,6|0|-6|-6|0|0|,-7|-21|-6|-6|0|0|,-33|-43|-6|-6|0|0|,-36|-64|-1|-1|-3|-3|,-87|-81|0|0|6|6|,-64|-46|-1|-1|9|9|,-34|-27|-1|-1|11|11|,-24|-22|-1|-1|9|9|,19|37|-6|-6|4|0|,28|19|-8|-8|0|0|,10|3|-8|-8|0|0|,-1|-15|-6|-6|0|0|,-28|-40|-6|-6|0|0|,-37|-60|-4|0|-1|-1|,-84|-78|0|0|8|8|,-67|-55|-1|-1|13|13|,-43|-36|-3|-3|14|14|,-31|-31|-3|-3|14|14|,13|39|-8|-8|8|-1|,31|22|-8|-8|0|0|,15|7|-8|-8|0|0|,0|-10|-6|-6|0|0|,-25|-37|-6|-6|0|0|,-39|-54|-5|0|-1|-1|,-79|-75|0|0|9|9|,-67|-58|0|0|13|13|,-49|-43|-1|-1|17|17|,-39|-37|-1|-1|17|17|,7|40|-6|-6|12|-2|,33|25|-8|-8|1|1|,18|10|-8|-8|0|0|,1|-7|-6|-6|0|0|,-21|-33|-4|-4|0|0|,-39|-45|-4|0|2|-2|,-79|-75|1|1|9|9|,-69|-61|0|0|14|14|,-55|-49|-1|-1|17|17|,-45|-43|-3|-3|19|19|,0|39|-6|-6|12|-2|,33|25|-8|-8|1|1|,19|12|-8|-8|1|1|,3|-6|-6|-6|0|0|,-19|-30|-4|-4|0|0|,-42|-39|-1|-1|0|0|,-78|-63|1|1|6|6|,-48|-33|0|0|8|8|,-16|0|0|0|9|9|,13|27|0|0|6|6|,37|34|-4|-8|1|1|,30|24|-8|-8|1|1|,18|9|-8|-8|1|1|,1|-7|-6|-6|0|0|,-21|-31|-4|-4|0|0|,-45|-36|-1|-1|0|0|,45|81|6|6|-11|-11|,99|85|5|0|-12|-3|,117|111|3|3|-8|-8|,115|99|1|1|-6|-6|,58|28|-4|-8|-2|2|,24|19|-8|-8|1|1|,13|6|-8|-8|1|1|,-1|-10|-4|-4|1|1|,-22|-33|-4|-4|0|0|,-46|-34|-1|-1|0|0|,58|76|6|6|-11|-11|,82|76|7|2|-10|-5|,102|105|3|3|-8|-8|,105|99|1|1|-6|-6|,57|22|-2|-7|-2|2|,19|13|-8|-8|3|3|,7|1|-6|-6|1|1|,-6|-15|-6|-6|1|1|,-27|-37|-3|-3|0|0|,-49|-39|-1|-1|0|0|,36|66|6|6|-11|-11|,76|58|7|2|-11|-1|,87|85|4|4|-8|-8|,87|87|1|1|-6|-6|,46|15|-2|-7|-2|2|,10|6|-6|-6|1|1|,0|-4|-4|-4|1|1|,-12|-21|-4|-4|1|1|,-33|-43|-3|-3|0|0|,-54|-51|0|0|0|0|,25|60|6|6|-11|-11|,61|60|6|6|-8|-8|,72|79|4|4|-8|-8|,79|76|3|3|-9|-9|,51|6|0|-5|-6|3|,3|0|-4|-4|1|1|,-4|-10|-4|-4|1|1|,-19|-28|-3|-3|0|0|,-39|-49|-1|-1|0|0|,-58|-55|0|0|0|0|,18|52|8|8|-11|-11|,57|60|6|6|-9|-9|,67|70|6|6|-8|-8|,72|64|4|4|-6|-6|,31|0|2|-2|-2|2|,-3|-7|-3|-3|1|1|,-12|-19|-3|-3|1|1|,-27|-36|-1|-1|0|0|,-46|-55|0|0|0|0|,-63|-64|0|0|0|0|,9|43|8|8|-11|-11|,48|54|8|8|-9|-9|,54|60|6|6|-8|-8|,60|58|6|6|-8|-8|,42|-7|2|-2|-6|3|,-10|-15|-1|-1|1|1|,-21|-27|-1|-1|0|0|,-34|-43|0|0|0|0|,-52|-60|0|0|0|0|,-67|-75|1|1|-1|-1|,1|36|8|8|-11|-11|,39|43|8|8|-9|-9|,43|40|6|6|-8|-8|,45|48|6|6|-8|-8|,25|-18|4|0|-6|3|,-19|-24|0|0|0|0|,-28|-36|0|0|0|0|,-43|-51|0|0|0|0|,-58|-66|1|1|-1|-1|,-72|-79|1|1|-1|-1|,

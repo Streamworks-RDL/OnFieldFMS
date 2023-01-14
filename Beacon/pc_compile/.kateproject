@@ -1,0 +1,13 @@
+{
+    "name": "Beacon PC Compile",
+    "files": [ { "recursive": 1 } ],
+    "build":
+    {
+        "targets": [
+            { "name":"build", "build_cmd":"make" },
+            { "name":"clean", "build_cmd":"make clean" }
+        ],
+       "default_target": "build",
+       "clean_target": "clean"
+    }
+}

@@ -1,0 +1,4 @@
+#!/bin/sh
+setfont Uni2-TerminusBold32x16
+/root/rpi `stty size` 192.168.1.21:80 > /dev/tty1 < /dev/tty1
+setfont

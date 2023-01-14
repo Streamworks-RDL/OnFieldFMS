@@ -1,0 +1,26 @@
+OBJDIR=obj
+OUTDIR=output
+
+CC=g++
+
+ifdef DEF
+USEDEF=-D $(DEF)
+else
+USEDEF=
+endif
+
+DEPS=BeaconCamera.h JpegDecode.h jpg.h
+
+_OBJ=main.o JpegDecode.o BeaconCamera.o
+OBJ=$(patsubst %,$(OBJDIR)/%,$(_OBJ))
+
+$(OBJDIR)/%.o: %.cpp $(DEPS)
+	$(CC) -c -o $@ $< $(CFLAGS) $(USEDEF)
+
+main: $(OBJ)
+	$(CC) -o $(OUTDIR)/$@ $^ $(CFLAGS) $(USEDEF)
+
+.PHONY: clean
+
+clean:
+	rm -f $(OBJDIR)/*.o *~ core $(INCDIR)/*~

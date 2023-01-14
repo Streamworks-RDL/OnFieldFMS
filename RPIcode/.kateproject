@@ -1,0 +1,17 @@
+{
+    "name": "FMS RPI Code",
+    "files": [ { "recursive": 1 } ],
+    "build":
+    {
+        "directory": "src",
+        "targets": [
+            { "name":"local", "build_cmd":"make CC=gcc" },
+            { "name":"local-verbose", "build_cmd":"make CC=gcc DEF=VERBOSE" },
+            { "name":"pi", "build_cmd":"make" },
+            { "name":"pi-verbose", "build_cmd":"make DEF=VERBOSE" },
+            { "name":"clean", "build_cmd":"make clean" }
+        ],
+       "default_target": "local",
+       "clean_target": "clean"
+    }
+}
